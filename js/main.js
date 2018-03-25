@@ -6,4 +6,4 @@ function example(l){
     return sum;
 }
 
-console.log('set value:', example(9));
+console.log('set value:', example(10));
